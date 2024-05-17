@@ -1,0 +1,30 @@
+.default{
+  width:100%;
+  text-align: center;
+}
+.default h1{
+  margin-right:1em;
+}
+h1{
+  font-size:2rem;
+  padding: 1em;
+  width: 50%;
+  border: 2px double cyan;
+  //margin: 50px auto;
+  text-align: center;
+  outline: 5px solid purple;
+  display: inline-block;
+}
+button{
+  font-size: 2rem;
+  padding: 1em;
+  width: 10%;
+  display:inline-block;
+ //margin: 3rem auto;
+  //text-align: center;
+}
+
+button:hover{
+  color:red;
+  background: cyan;
+}
